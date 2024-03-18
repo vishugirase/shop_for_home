@@ -55,9 +55,18 @@ The main purpose of the project is to provide users with a seamless shopping exp
 ## Result
 The output of the project includes various visual representations and data outputs demonstrating the functionality of the application.
 
+Here are some screenshots:
+
+![Screenshot 1](https://github.com/vishugirase/shop_for_home/blob/main/Images/Screenshot%202024-03-18%20232949.png)
+![Screenshot 2](https://github.com/vishugirase/shop_for_home/blob/main/Images/Screenshot%202024-03-18%20233246.png)
+
+
 ## Conclusion
 The "Shop for Home" project demonstrates the successful integration of React, Spring Boot, and MySQL to create a robust e-commerce platform. Users can browse, shop, and manage their orders efficiently while administrators have tools to oversee and manage the entire operation.
 
 ## References
-1. Online Furniture Shopping Store: Shop Online in India for Furniture, Home Decor, Homeware Products @pepperfry
-2. [YouTube Tutorial](https://www.youtube.com/watch?v=G46fjVzQ7BQ&t=571)
+1. [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+2. [W3Schools - CSS Tutorial](https://www.w3schools.com/css/)
+3. [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
+4. [Spring Boot Documentation](https://spring.io/projects/spring-boot)
+5. [MySQL Tutorial by Tutorialspoint](https://www.tutorialspoint.com/mysql/index.htm)
