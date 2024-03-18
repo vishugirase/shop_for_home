@@ -1,0 +1,1 @@
+SELECT * FROM shopforhome.wish_list;
