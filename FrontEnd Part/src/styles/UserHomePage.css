@@ -1,0 +1,60 @@
+::-webkit-scrollbar{
+    display: none;
+    
+}
+.button1{
+
+    /* background-color: rgb(49, 208, 158); */
+    transition-duration: 0.4s;
+    color:rgb(186, 31, 31);
+    
+}
+
+/* .button1:hover{
+    
+    background-color: white;
+    color:rgb(174, 115, 67);
+} */
+
+.link1{
+    
+    /* background-color: rgb(28, 197, 239); */
+    color: black;
+}
+.div1{
+
+    background-image:url( "../Images/mainimg.jpg");
+    background-size: cover;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+    
+}
+
+h2{
+
+    background-color: rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    padding: 10px;
+    color: rgb(18, 12, 13);
+}
+
+.center1{
+    padding: 50px;
+}
+.center12{
+    text-align: right;
+    margin-right: 50px;
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    padding: 10px;
+    color:red
+}
+.div2 img {
+    width: 10px;
+}

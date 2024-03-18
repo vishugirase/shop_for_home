@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 10px 10px 10px ;
+    color: rgb(117, 19, 86);
+    padding: 20px;
+    border: 2px solid black ;
+    display: inline-block;
+   margin-left: 570px;
+   margin-top: 50px ;
+   background-color:lightblue;
+}
+
+.div1{
+
+    background-image:url( "../Images/mainimg.jpg");
+    background-size: cover;
+    height: 1300px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#div2{
+    margin-left: 50px;
+    margin-top: 2px;
+}
+
+.Auth-form{
+
+    background-color: rgba(96, 178, 233, 0.3);
+    padding-top: 50px;
+    
+}
+.Auth-form-container{
+    padding-bottom: 250px;
+}
+
+.Auth-form-title{
+
+    color: rgb(24, 25, 24);
+    text-shadow: white 2px 2px;
+    
+}
+
+.d-grid gap-2 mt-3{
+
+   background-color:rebeccapurple;
+}
+
+.link1{
+    color: rgb(221, 227, 230);
+    
+}
+/* .main-div {
+    background-position: center;
+  background-image: url("../Images/bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  } */
+  
+  

@@ -1,0 +1,23 @@
+.button1{
+
+    background-color: lightsalmon;
+    transition-duration: 0.4s;
+    color:white;
+
+}
+
+.button1:hover{
+
+    background-color: white;
+    color:white;
+}
+
+.div1{
+    background-image:url( "../Images/HomeDecor.jpg");
+    background-size: cover;
+    height: 1300px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+

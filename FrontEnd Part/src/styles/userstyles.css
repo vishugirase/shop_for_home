@@ -1,0 +1,10 @@
+.main-div{
+    
+    background-image:url( "../Images/1.jpg");
+    background-size: cover;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}

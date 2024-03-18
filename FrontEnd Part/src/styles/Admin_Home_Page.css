@@ -1,0 +1,38 @@
+.divv {
+
+    background-image: url("../Images/mainimg.jpg");
+    background-size: cover;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+
+
+}
+.link2{
+    color: black;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+.divv1 {
+
+    background-image: url("../Images/mainimg.jpg");
+    background-size: cover;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+
+
+}
+.pdiv{
+    padding-left: 120px;
+    word-wrap: break-word;
+}
